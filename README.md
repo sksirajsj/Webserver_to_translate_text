@@ -1,11 +1,11 @@
 # Webserver_to_translate_text
 
 
-# Back-end: 
+ Back-end: 
  
-# Translation Caching: 
+Translation Caching: 
 
-# Language: NodeJS 
+Language: NodeJS 
 
 # Goal 
 
