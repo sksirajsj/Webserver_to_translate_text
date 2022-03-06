@@ -21,3 +21,13 @@ cache must be persistent!
 The server should have an extensible architecture. E.g. We may want to change our caching strategy or switch out our 
 translation service.
 
+
+# Usage
+
+To get the translation, I deployed it in on Heroku,and go webserver link.
+
+Write it in this format in deployed link to get TRANSLATION
+
+{URL}/translate?sourceText=&targetLanguage=''
+
+
