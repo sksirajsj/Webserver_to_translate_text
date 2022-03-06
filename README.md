@@ -30,4 +30,16 @@ Write it in this format in deployed link to get TRANSLATION
 
 {URL}/translate?sourceText=&targetLanguage=''
 
+We need to pass two queries
+
+1.sourceText[the text you want to translate]
+2.targetLanguage[the language it to get translated into]
+
+Follow ISO Language Code
+
+"hi" for Hindi
+"te" for Telugu
+"ma" for Tamil, etc.
+
+
 
