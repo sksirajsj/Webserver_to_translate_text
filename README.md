@@ -1,13 +1,18 @@
 # Webserver_to_translate_text
 
 
-Back-end: 
+# Back-end: 
  
-Translation Caching: 
-Language: NodeJS 
-Goal 
+# Translation Caching: 
+
+# Language: NodeJS 
+
+# Goal 
+
 Develop a web server that exposes an API to translate a text.
-Task 
+
+# Task 
+
 Create a web server with a RESTful API to translate a text from one language to another.
 For the actual translation, you can use an external service like Google Translate or Bing Translations. 
 The source and target language should be definable via the API.
